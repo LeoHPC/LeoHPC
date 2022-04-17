@@ -14,11 +14,11 @@
 </div>
 
 <div>
-  <h4> Tecnologias do meu dia-a-dia: </h4>
+  <h4> Tecnologias do meu dia a dia: </h4>
   <div style="display: inline_block">
   <img align="center" alt="TypeScript" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="ReactJS" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img align="center" alt="React Native" height="41" width="41" src="https://madewithreact.com/content/images/2016/06/logo-small.png">
+  <img align="center" alt="React Native" height="40" width="40" src="https://madewithreact.com/content/images/2016/06/logo-small.png">
   <img align="center" alt="Nextjs" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" />
   <img align="center" alt="FaunaDB" height="40" width="45" src="https://github.com/LeoHPC/LeoHPC/blob/main/FaunaDB.png">  
   <img align="center" alt="Firebase" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg ">                                                                                 

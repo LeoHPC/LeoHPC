@@ -17,12 +17,11 @@
   <h4> Tecnologias do meu dia-a-dia: </h4>
   <div style="display: inline_block">
   <img align="center" alt="TypeScript" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> 
   <img align="center" alt="ReactJS" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img align="center" alt="React Native" height="41" width="41" src="https://madewithreact.com/content/images/2016/06/logo-small.png">
   <img align="center" alt="Nextjs" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" />
-  <img align="center" alt="HTML5" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"> 
-  <img align="center" alt="SASS" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">                                                                                      
+  <img align="center" alt="FaunaDB" height="40" width="45" src="https://github.com/LeoHPC/LeoHPC/blob/main/FaunaDB.png">  
+  <img align="center" alt="Firebase" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg ">                                                                                 
   </div>
 </div>
     
@@ -31,7 +30,6 @@
 <div> 
   <h4> Me contate através dos links abaixo: </h4>
   <a href="https://github.com/LeoHPC" target="_blank"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white target="_blank"></a>
-  <a href="https://www.instagram.com/leohpc99/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:leopetrecca@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardo-henrique-33a3ab210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>

@@ -18,10 +18,11 @@
   <div style="display: inline_block">
   <img align="center" alt="TypeScript" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="ReactJS" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img align="center" alt="React Native" height="40" width="40" src="https://madewithreact.com/content/images/2016/06/logo-small.png">
   <img align="center" alt="Nextjs" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" />
   <img align="center" alt="FaunaDB" height="40" width="45" src="https://github.com/LeoHPC/LeoHPC/blob/main/FaunaDB.png">  
-  <img align="center" alt="Firebase" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg ">                                                                                 
+  <img align="center" alt="Firebase" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"> 
+  <img align="center" alt="Jest" height="39" width="44" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg"> 
+  <img align="center" alt="Vercel" height="37" width="43" src="https://coollogo.net/wp-content/uploads/2021/11/vercel-icon.svg"> 
   </div>
 </div>
     

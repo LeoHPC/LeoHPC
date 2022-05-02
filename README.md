@@ -19,6 +19,7 @@
   <img align="center" alt="TypeScript" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="ReactJS" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img align="center" alt="Nextjs" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" />
+  <img align="center" alt="Tailwindcss" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" />
   <img align="center" alt="FaunaDB" height="40" width="45" src="https://github.com/LeoHPC/LeoHPC/blob/main/FaunaDB.png">  
   <img align="center" alt="Firebase" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"> 
   <img align="center" alt="Jest" height="39" width="44" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg"> 

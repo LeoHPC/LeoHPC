@@ -23,6 +23,7 @@
   <img align="center" alt="FaunaDB" height="40" width="45" src="https://github.com/LeoHPC/LeoHPC/blob/main/FaunaDB.png">  
   <img align="center" alt="Firebase" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"> 
   <img align="center" alt="Jest" height="39" width="44" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg"> 
+  <img align="center" alt="Testing Library" height="39" width="44" src="https://testing-library.com/img/octopus-128x128.png"> 
   <img align="center" alt="Vercel" height="37" width="43" src="https://coollogo.net/wp-content/uploads/2021/11/vercel-icon.svg"> 
   </div>
 </div>

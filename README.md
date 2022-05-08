@@ -34,5 +34,6 @@
   <a href="https://github.com/LeoHPC" target="_blank"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white target="_blank"></a>
   <a href = "mailto:leopetrecca@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardo-henrique-33a3ab210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://vercel.com/leohpc" target="_blank"><img src="https://img.shields.io/badge/-Vercel-blueviolet?style=for-the-badge&logo=Vercel&link=https://https://vercel.com/leohpc/"></a>
 </div>
 </div>

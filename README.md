@@ -23,7 +23,7 @@
   <img align="center" alt="Jest" height="40" width="45" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_jest_snapshot.svg"> 
   <img align="center" alt="FaunaDB" height="40" width="45" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_fauna.svg">  
   <img align="center" alt="Firebase" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"> 
-  <img align="center" alt="Vite" height="36" width="36" src="https://seeklogo.com/images/V/vite-logo-BFD4283991-seeklogo.com.png"> 
+  <img align="center" alt="Vite" height="40" width="45" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_vite.svg">
   <img align="center" alt="Vercel" height="33" width="43" src="https://coollogo.net/wp-content/uploads/2021/11/vercel-icon.svg"> 
   </div>
 </div>

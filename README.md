@@ -8,9 +8,8 @@
 </p>
 
 <div>
-  <a href="https://github.com/LeoHPC">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoHPC&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="kyojuro-kyojuro-rengoku.gif"/>
+  <img height="180em" src="https://i.ibb.co/qy2fYv2/af0a2bf5bfb03420846d06a2063b519c.gif" />
 </div>
 
 <div>
@@ -23,8 +22,7 @@
   <img align="center" alt="Jest" height="40" width="45" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_jest_snapshot.svg"> 
   <img align="center" alt="FaunaDB" height="40" width="45" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_fauna.svg">  
   <img align="center" alt="Firebase" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"> 
-  <img align="center" alt="Vite" height="40" width="45" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_vite.svg">
-  <img align="center" alt="Vercel" height="33" width="43" src="https://coollogo.net/wp-content/uploads/2021/11/vercel-icon.svg"> 
+  <img align="center" alt="Vite" height="40" width="45" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_vite.svg"> 
   </div>
 </div>
     

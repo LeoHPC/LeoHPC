@@ -8,15 +8,15 @@
 </p>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoHPC&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://i.ibb.co/qy2fYv2/af0a2bf5bfb03420846d06a2063b519c.gif" />
+  <img width="100%" src="ghost rider.gif"/>
 </div>
 
 <div>
   <h4> Tecnologias do meu dia a dia: </h4>
   <div style="display: inline_block">
   <img align="center" alt="TypeScript" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="ReactJS" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img align="center" alt="ReactJS" height="45" width="45" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_reactjs.svg">
+  <img align="center" alt="React Native" height="45" width="45" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_reactts.svg">
   <img align="center" alt="Nextjs" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" />
   <img align="center" alt="Tailwindcss" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" />
   <img align="center" alt="Jest" height="40" width="45" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_jest_snapshot.svg"> 

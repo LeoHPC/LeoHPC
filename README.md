@@ -27,6 +27,6 @@
     <img align="center" alt="Vite" height="40" width="45" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_vite.svg">                         
   </div>
 
-  <h4>Obrigado pela visita! 🙇</h4>
+  <h4>Obrigado pela visita! 🙇 Feito com 💕 por Leonardo Henrique Petreca Costa.</h4>
   
 </div>

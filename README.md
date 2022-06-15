@@ -8,7 +8,7 @@
   [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&labelColor=c14438&logo=gmail&logoColor=white&link="mailto:leopetrecca@gmail.com")](mailto:leopetrecca@gmail.com)
   ![](https://komarev.com/ghpvc/?username=leohpc&color=006bed)
   
-  <img src="batman-readme.jpg" width=820px/>
+  <img src="batman-image.png" width=820px/>
   
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=react&hide_border=false&username=LeoHPC" height="215" alt="languages graph" />
@@ -27,6 +27,6 @@
     <img align="center" alt="Vite" height="40" width="45" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_vite.svg">                         
   </div>
 
-  <h4>Obrigado pela visita! 🙇 Feito com 💕 por Leonardo Henrique Petreca Costa.</h4>
+  <h4>Obrigado pela visita! 🙇 <br>Feito com 💕 por Leonardo Henrique Petreca Costa.</h4>
   
 </div>

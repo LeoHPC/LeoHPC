@@ -8,7 +8,7 @@
   [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&labelColor=c14438&logo=gmail&logoColor=white&link="mailto:leopetrecca@gmail.com")](mailto:leopetrecca@gmail.com)
   ![](https://komarev.com/ghpvc/?username=leohpc&color=006bed)
   
-  <img src="https://wallpaperaccess.com/full/6197413.jpg" width=820px/>
+  <img src="batman-readme.jpg" width=820px/>
   
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=react&hide_border=false&username=LeoHPC" height="215" alt="languages graph" />

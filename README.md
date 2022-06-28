@@ -22,8 +22,8 @@
 <img align="center" alt="Nextjs" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" />
     <img align="center" alt="GraphQL" height="45" width="45" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_graphql.svg">  
     <img align="center" alt="Apollo Client" height="50" width="50" src="https://aws1.discourse-cdn.com/business5/uploads/apollographql/original/1X/25bd5104d61020fe4dc0777a5919cd009bca633e.png">
-    <img align="center" alt="Tailwindcss" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" /> 
-    <img align="center" alt="Jest" height="40" width="45" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_jest_snapshot.svg">
+    <img align="center" alt="Tailwindcss" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" /> 
+    <img align="center" alt="Jest" height="40" width="45" src="https://raw.githubusercontent.com/thibaudcolas/unit-test-workshop/master/.github/jest-logo.svg?sanitize=true">
     <img align="center" alt="Vite" height="40" width="45" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_vite.svg">                         
   </div>
 

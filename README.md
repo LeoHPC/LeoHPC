@@ -1,7 +1,7 @@
  <div align="center">
   
   <h2>Olá, eu sou o Leonardo Henrique 👋</h2>
-  <h4><em>Desenvolvedor front-end | React 💻 | React Native 📱 </br>Graduando em Engenharia de Computação no<a href="https://portal.pcs.ifsuldeminas.edu.br/"> Instituto Federal Sul de Minas</a> 📚</h4>
+  <h4><em>Desenvolvedor Pleno na <a href="https://neoestech.com.br/site/">Estech - ESCO & Tecnologia</a> <br/>Front-end | React 💻 | React Native 📱 </br>Graduando em Engenharia de Computação no<a href="https://portal.pcs.ifsuldeminas.edu.br/"> Instituto Federal Sul de Minas</a> 📚</h4>
 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-henrique-33a3ab210/)](https://www.linkedin.com/in/leonardo-henrique-33a3ab210/)
   [![Vercel Badge](https://img.shields.io/badge/-Vercel-blueviolet?style=flat-square&logo=Vercel&link=https://https://vercel.com/azevgabriel/)](https://vercel.com/leohpc/)

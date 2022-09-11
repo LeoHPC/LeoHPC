@@ -1,4 +1,4 @@
-<img  width="30%" src="https://github.com/LeoHPC/LeoHPC/blob/main/92922f104412103.5fbc22be07c17.gif" align="left"/>
+<img  width="35%" src="https://github.com/LeoHPC/LeoHPC/blob/main/92922f104412103.5fbc22be07c17.gif" align="left"/>
 
  <div align="center">
   <h2>Olá, eu sou o Leonardo Henrique :ninja:</h2>

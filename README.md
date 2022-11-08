@@ -1,7 +1,7 @@
 <img  width="35%" src="https://github.com/LeoHPC/LeoHPC/blob/main/92922f104412103.5fbc22be07c17.gif" align="left"/>
 
  <div align="center">
-  <h2>Olá, eu sou o Leonardo Henrique :ninja:</h2>
+  <h2>Olá, eu sou o Leonardo Henrique 😃</h2>
   <h4><em>Desenvolvedor Front-end | React | React Native | Next </br>
    Analista de Desenvolvimento de Sistema na <a href="https://www.kabum.com.br/">KaBum!</a>
    </br>

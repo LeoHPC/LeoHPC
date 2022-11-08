@@ -3,7 +3,7 @@
  <div align="center">
   <h2>Olá, eu sou o Leonardo Henrique 😃</h2>
   <h4><em>Desenvolvedor Front-end | React | React Native | Next </br>
-   Analista de Desenvolvimento de Sistema na <a href="https://www.kabum.com.br/">KaBum!</a>
+   Analista de Desenvolvimento de Sistema na <a href="https://www.kabum.com.br/">KaBuM!</a>
    </br>
    Graduando em Engenharia de Computação no<a href="https://portal.pcs.ifsuldeminas.edu.br/"> Instituto Federal Sul de Minas</a> 📚</h4>
 

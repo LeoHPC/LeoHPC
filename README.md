@@ -15,8 +15,8 @@
   <div style="display: inline_block">
     <img align="center" alt="TypeScript" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
     <img align="center" alt="ReactJS" height="45" width="45" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_reactjs.svg">
-    <img align="center" alt="Nextjs" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" />
-    <img align="center" alt="Vite" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">  
+    <img align="center" alt="Stitches" height="40" width="45" src="https://bestofjs.org/logos/stitches.svg" />
+    <img align="center" alt="Radix" height="40" width="40" src="https://avatars.githubusercontent.com/u/75042455?s=280&v=4">  
     <img align="center" alt="Vite" height="42" width="40" src="https://cdn.worldvectorlogo.com/logos/vitejs.svg">  
     <img align="center" alt="Tailwindcss" height="43" width="43" src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" /> 
     <img align="center" alt="Vite" height="39" width="37" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">     
